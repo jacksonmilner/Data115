@@ -3,7 +3,6 @@
 I was recently watching the show Narcos on Netflix and it made me curious about the effectiveness of the War on Drugs in the United States. 
 For this project, I am analyzing drug arrest data from 1994 to 2016 in the United States.
 The main question that I set out to answer at the start of this project is this: Does the number of manufacturing arrests impact the amount of possession arrests? 
-If an increase in the number of manufacturing arrests leads to a decrease in possession arrests, then the government is winning the War on Drugs.
 ## Data Source
 I sourced my data from the [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov/downloads-and-docs) database. The description of the dataset on the site is not accurate, as it claims to have the monthly number of arrests and to be broken down by age, sex or age, and race. In reality the dataset contains yearly totals with no data on sex, age, or race. The dataset is a compilation of data submitted by participating police agencies.
 ## Data Cleaning Process
